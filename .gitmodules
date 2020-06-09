@@ -1,0 +1,3 @@
+[submodule "sw/ft232r_prog"]
+	path = sw/ft232r_prog
+	url = https://github.com/effeerre75/ft232r_prog.git
