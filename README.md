@@ -1,12 +1,27 @@
-
-[Czech](./README.cs.md)
-<!--- module --->
+<!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
+<!--- 00a56be08b96043df9e37d6aff7b6990 --->
+<!--- Created:2022-02-16 22:13:45.878873: ---> 
+<!--- Author:: ---> 
+<!--- AuthorEmail:: ---> 
+<!--- Tags:: ---> 
+<!--- Ust:: ---> 
+<!--- Label --->
+<!--- ELabel ---> 
+<!--- Name:USB232R01A: --->
 # USB232R01A
-<!--- Emodule --->
+<!--- LongName --->
+## USB to RS232 TTL converter
+<!--- ELongName ---> 
 
-<!--- subtitle ---> USB to RS232 TTL converter <!--- Esubtitle --->
+<!--- Lead --->
+The module allow conecting RS232 TTL device to USB.
+<!--- ELead ---> 
 
-![USB232R01A](/doc/img/USB232R01A_QRcode.png)
+![USB232R01A](doc/img/USB232R01A_top_small.jpg) 
 
-<!--- description ---> The module allow conecting RS232 TTL device to USB.<!--- Edescription --->
-            
+
+<!--- Description --->
+<!--- EDescription --->
+<!--- Content --->
+<!--- EContent --->
+<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2022-02-16)</sup></sub>
