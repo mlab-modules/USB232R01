@@ -1,14 +1,10 @@
-description: USB to serial RS232 converter
+description: The module is universal converter from USB to RS232 with TTL/CMOS signal
+  levels (both 3.3V and 5V). The converter uses FT232R chip from FTDI and is supported
+  in all main operating systems.
 github_branch: USB232R01B
-github_branches:
-- USB232R01A
-- USB232R01B
 github_repo: USB232R01
 github_url: https://github.com/mlab-modules/USB232R01
 homepage: false
-image: doc/img/USB23201B_Bot_big.jpg
-replaced: USB232R02
-status:3
 images:
 - doc/img/USB23201B_Bot_big.jpg
 - doc/img/USB23201B_top_big.jpg
@@ -24,7 +20,12 @@ images:
 - doc/html/USB232R01B.cs_files/image002.gif
 - doc/html/USB232R01B.cs_files/image007.gif
 - fzp/USB232R01B_breadboard.svg
-issues: 0
 mark: 50
-tags: []
+tags:
+- ft232r
+- ftdi
+- mlab
+- uart
+- usb-uart
+- mlab-comm-serial
 title: USB232R01
