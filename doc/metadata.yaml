@@ -5,6 +5,7 @@ github_branch: USB232R01B
 github_repo: USB232R01
 github_url: https://github.com/mlab-modules/USB232R01
 homepage: false
+replaced: USB232R02
 images:
 - doc/img/USB23201B_Bot_small.jpg
 - doc/img/USB23201B_top_small.jpg
