@@ -6,17 +6,17 @@ github_repo: USB232R01
 github_url: https://github.com/mlab-modules/USB232R01
 homepage: false
 images:
-- doc/img/USB23201B_Bot_small.jpg
 - doc/img/USB23201B_top_small.jpg
-- doc/img/USB23201B_Bot_big.jpg
+- doc/img/USB23201B_Bot_small.jpg
 - doc/img/USB23201B_top_big.jpg
-- doc/html/USB232R01B.cs_files/image003.jpg
-- doc/html/USB232R01B.cs_files/image008.jpg
-- doc/html/USB232R01B.cs_files/image004.jpg
+- doc/img/USB23201B_Bot_big.jpg
 - doc/html/USB232R01B.cs_files/image001.jpg
+- doc/html/USB232R01B.cs_files/image008.jpg
+- doc/html/USB232R01B.cs_files/image003.jpg
+- doc/html/USB232R01B.cs_files/image004.jpg
 - doc/img/USB232R01B_QRcode.png
-- doc/html/USB232R01B.cs_files/O1.png
 - doc/html/USB232R01B.cs_files/O2.png
+- doc/html/USB232R01B.cs_files/O1.png
 - doc/html/USB232R01B.cs_files/image002.gif
 - doc/html/USB232R01B.cs_files/image007.gif
 - fzp/USB232R01B_breadboard.svg
@@ -31,4 +31,4 @@ tags:
 - mlab-comm-serial
 - mlab-module
 title: USB232R01
-updated: '2023-07-21T03:32:40.077660+00:00'
+updated: '2023-09-11T00:25:15.415990+00:00'
