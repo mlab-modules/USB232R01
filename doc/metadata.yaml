@@ -2,6 +2,9 @@ description: The module is universal converter from USB to UART with TTL/CMOS si
   levels (both 3.3V and 5V). The converter uses FT232R chip from FTDI and is supported
   in all main operating systems.
 github_branch: USB232R01B
+github_description: The module is universal converter from USB to UART with TTL/CMOS
+  signal levels (both 3.3V and 5V). The converter uses FT232R chip from FTDI and is
+  supported in all main operating systems.
 github_repo: USB232R01
 github_url: https://github.com/mlab-modules/USB232R01
 homepage: false
@@ -32,4 +35,4 @@ tags:
 - mlab-comm-serial
 - mlab-module
 title: USB232R01
-updated: '2023-09-16T16:39:05.272558+00:00'
+updated: '2023-09-17T11:34:06.912372+00:00'
